@@ -29,3 +29,4 @@ export class Funcionario extends Pessoadois {
         console.log(`${this.nome}, ${this.idade}, ${this.cargo}, ${this.salario}`)
     }
 }
+

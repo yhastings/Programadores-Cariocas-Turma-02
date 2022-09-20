@@ -1,7 +1,11 @@
 // import { Pessoa } from "./src/pessoa";
 
-import { Funcionario } from "./src/funcionario";
-import { Pessoadois } from "./src/pessoadois";
+import { Animal } from "./src/animal";
+import { Cachorro } from "./src/cachorro";
+import { Cavalo } from "./src/cavalo";
+
+// import { Funcionario } from "./src/funcionario";
+// import { Pessoadois } from "./src/pessoadois"
 
 // import { ContaBanco } from "./src/contabanco";
 
@@ -21,8 +25,12 @@ import { Pessoadois } from "./src/pessoadois";
 // conta1.verSaldo()
 
 
-let pessoa2 = new Funcionario("Liza", "054.846.235.28", "48.784.168-x", "Embu das trevas", 26, "15251515ass", "Instrutora", "45125145", 500);
+// let pessoa2 = new Funcionario("Liza", "054.846.235.28", "48.784.168-x", "Embu das trevas", 26, "15251515ass", "Instrutora", "45125145", 500);
 
-pessoa2.verFuncionario();
+// pessoa2.verFuncionario();
 
 
+
+let amigo = new Cavalo("Shitzu", "Amarelo", 4, "Domestica", "amarelo")
+
+amigo.cacar();
