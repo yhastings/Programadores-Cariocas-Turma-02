@@ -1,8 +1,10 @@
 // import { Pessoa } from "./src/pessoa";
 
-import { Animal } from "./src/animal";
-import { Cachorro } from "./src/cachorro";
-import { Cavalo } from "./src/cavalo";
+// import { Trabalhoi } from "./src/trabalhoi";
+
+// import { Animal } from "./src/animal";
+// import { Cachorro } from "./src/cachorro";
+// import { Cavalo } from "./src/cavalo";
 
 // import { Funcionario } from "./src/funcionario";
 // import { Pessoadois } from "./src/pessoadois"
@@ -31,6 +33,84 @@ import { Cavalo } from "./src/cavalo";
 
 
 
-let amigo = new Cavalo("Shitzu", "Amarelo", 4, "Domestica", "amarelo")
+// let amigo = new Cavalo("Shitzu", "Amarelo", 4, "Domestica", "amarelo")
 
-amigo.cacar();
+// amigo.cacar();
+
+// let implementacao = new Trabalhoi()
+
+
+//Forma de inicializar nosso array
+
+// let identificador = new Array<string>
+// let identificador: string[] = []
+// let identificador = ["Nome", "Joana"]
+
+// let alunos: string[] = []
+
+
+//populando um array 
+// alunos.push('Debora', 'Romulo', 'Mayara', 'Sergio');
+// alunos.push()
+
+
+
+// console.log(alunos[2]);
+
+// for(let i = 0; i <= 3; i++){
+//     console.log(alunos[i])
+// }
+
+// for( let i of alunos){
+//     console.log(i)
+// }
+
+
+// alunos.forEach((abacaxi) => console.log(abacaxi))
+
+//remove o ultimo elemento
+
+// console.log(alunos);
+
+// alunos.pop()
+// alunos.pop()
+
+// Remove o primeiro elemento do array 
+// console.log(alunos);
+
+// alunos.shift()
+
+
+// console.log(alunos);
+
+
+//alterar ou remover dentro do array
+
+// console.log(alunos);
+
+// alunos.splice(1, 1)
+// alunos.splice(2, 3, "Fernanda", "Tharles")
+
+// console.log(alunos);
+
+
+// let variavel1: number = 4,  variavel2: number = 4, total: number
+
+// function somar(variavel1, variavel2){
+//     total = variavel1 + variavel2
+//     return console.log(total)
+// }
+
+// somar(variavel1, variavel2);
+
+
+// let soma = (variavel1: number, variavel2: number) => variavel1 + variavel2;
+
+// console.log(soma(4, 4));
+
+
+
+
+
+
+
