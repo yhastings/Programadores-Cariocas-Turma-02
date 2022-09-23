@@ -1,0 +1,116 @@
+// import { Pessoa } from "./src/pessoa";
+
+// import { Trabalhoi } from "./src/trabalhoi";
+
+// import { Animal } from "./src/animal";
+// import { Cachorro } from "./src/cachorro";
+// import { Cavalo } from "./src/cavalo";
+
+// import { Funcionario } from "./src/funcionario";
+// import { Pessoadois } from "./src/pessoadois"
+
+// import { ContaBanco } from "./src/contabanco";
+
+
+// let pessoaUm = new Pessoa();
+
+// pessoaUm.nome = "Debora / Pekky";
+// pessoaUm.cpf = "235.568.695-38";
+// pessoaUm.idade = 18;
+// pessoaUm.telefone = "(21) 98456-8147";
+
+// console.log(`O nome da pessoa é: ${pessoaUm.nome} `);
+
+
+// let conta1 = new ContaBanco("Liza", "005-4", "4002-52", 500);
+
+// conta1.verSaldo()
+
+
+// let pessoa2 = new Funcionario("Liza", "054.846.235.28", "48.784.168-x", "Embu das trevas", 26, "15251515ass", "Instrutora", "45125145", 500);
+
+// pessoa2.verFuncionario();
+
+
+
+// let amigo = new Cavalo("Shitzu", "Amarelo", 4, "Domestica", "amarelo")
+
+// amigo.cacar();
+
+// let implementacao = new Trabalhoi()
+
+
+//Forma de inicializar nosso array
+
+// let identificador = new Array<string>
+// let identificador: string[] = []
+// let identificador = ["Nome", "Joana"]
+
+// let alunos: string[] = []
+
+
+//populando um array 
+// alunos.push('Debora', 'Romulo', 'Mayara', 'Sergio');
+// alunos.push()
+
+
+
+// console.log(alunos[2]);
+
+// for(let i = 0; i <= 3; i++){
+//     console.log(alunos[i])
+// }
+
+// for( let i of alunos){
+//     console.log(i)
+// }
+
+
+// alunos.forEach((abacaxi) => console.log(abacaxi))
+
+//remove o ultimo elemento
+
+// console.log(alunos);
+
+// alunos.pop()
+// alunos.pop()
+
+// Remove o primeiro elemento do array 
+// console.log(alunos);
+
+// alunos.shift()
+
+
+// console.log(alunos);
+
+
+//alterar ou remover dentro do array
+
+// console.log(alunos);
+
+// alunos.splice(1, 1)
+// alunos.splice(2, 3, "Fernanda", "Tharles")
+
+// console.log(alunos);
+
+
+// let variavel1: number = 4,  variavel2: number = 4, total: number
+
+// function somar(variavel1, variavel2){
+//     total = variavel1 + variavel2
+//     return console.log(total)
+// }
+
+// somar(variavel1, variavel2);
+
+
+// let soma = (variavel1: number, variavel2: number) => variavel1 + variavel2;
+
+// console.log(soma(4, 4));
+
+
+
+
+
+
+
